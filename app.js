@@ -51,6 +51,7 @@ function endGame(draw) {
       circleTurn ? "O's" : "X's"
     }"Wins!"`;
   }
+  winningMessageTextElement.classList.add;
 }
 
 function placeMark(cell, currentClass) {
